@@ -1,9 +1,9 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# Date:15/09/2025
+# DATE 15/09/2025
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
-a
+
 1.	Start the program.
 
 2.	Lex program consists of three parts.
@@ -80,9 +80,9 @@ return 0;
 
 ```
 # OUTPUT
-<img width="1095" height="1061" alt="image" src="https://github.com/user-attachments/assets/e8fdc8d6-bc14-4834-836e-cf4bcb0b00c2" />
-<img width="969" height="901" alt="image" src="https://github.com/user-attachments/assets/5363c231-5011-445e-ad79-baaad6b68b69" />
 
+<img width="953" height="1024" alt="Screenshot 2025-09-13 132856" src="https://github.com/user-attachments/assets/1c49d7e9-fba6-45b3-83b6-4dceb9e7bd27" />
+<img width="988" height="526" alt="Screenshot 2025-09-13 132902" src="https://github.com/user-attachments/assets/d139ca0f-f0ad-4528-8db8-2458b73d7228" />
 
 
 
